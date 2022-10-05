@@ -8,7 +8,7 @@ namespace CSharp
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main_a(string[] args)
         {
             //정수
             //byte(1바이트 0~255), short(2바이트 -3만~3만), int(4바이트-21억~21억), long(8바이트 짱 많음)
