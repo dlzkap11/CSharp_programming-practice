@@ -28,7 +28,7 @@ namespace CSharp
             Console.WriteLine("Add float 호출");
             return a + b;
         }
-        static void Main(String[] args)
+        static void Main_g(String[] args)
         {
             int ret = Add(2, 3);
             float ret2 = Add(2.3f, 3.4f);
