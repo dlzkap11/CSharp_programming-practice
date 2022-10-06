@@ -44,8 +44,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Cal.cs" />
+    <Compile Include="Condition.cs" />
+    <Compile Include="function.cs" />
+    <Compile Include="Overloading.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="repeat.cs" />
+    <Compile Include="rsp_game.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

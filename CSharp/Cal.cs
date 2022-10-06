@@ -8,7 +8,7 @@ namespace CSharp
 {
     class Cal
     {
-        static void Main(String[] args)
+        static void Main_b(String[] args)
         {
             int hp = 100;
             int level = 50;
