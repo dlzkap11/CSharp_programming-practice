@@ -1,0 +1,7 @@
+D:\Inflearn\TextRPG\TextRPG\bin\Debug\TextRPG.exe.config
+D:\Inflearn\TextRPG\TextRPG\bin\Debug\TextRPG.exe
+D:\Inflearn\TextRPG\TextRPG\bin\Debug\TextRPG.pdb
+D:\Inflearn\TextRPG\TextRPG\obj\Debug\TextRPG.csproj.AssemblyReference.cache
+D:\Inflearn\TextRPG\TextRPG\obj\Debug\TextRPG.csproj.CoreCompileInputs.cache
+D:\Inflearn\TextRPG\TextRPG\obj\Debug\TextRPG.exe
+D:\Inflearn\TextRPG\TextRPG\obj\Debug\TextRPG.pdb
