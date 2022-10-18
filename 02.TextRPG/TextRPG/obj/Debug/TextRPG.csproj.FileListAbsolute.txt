@@ -5,3 +5,10 @@ D:\Inflearn\TextRPG\TextRPG\obj\Debug\TextRPG.csproj.AssemblyReference.cache
 D:\Inflearn\TextRPG\TextRPG\obj\Debug\TextRPG.csproj.CoreCompileInputs.cache
 D:\Inflearn\TextRPG\TextRPG\obj\Debug\TextRPG.exe
 D:\Inflearn\TextRPG\TextRPG\obj\Debug\TextRPG.pdb
+D:\Inflearn\02.TextRPG\TextRPG\bin\Debug\TextRPG.exe.config
+D:\Inflearn\02.TextRPG\TextRPG\bin\Debug\TextRPG.exe
+D:\Inflearn\02.TextRPG\TextRPG\bin\Debug\TextRPG.pdb
+D:\Inflearn\02.TextRPG\TextRPG\obj\Debug\TextRPG.csproj.AssemblyReference.cache
+D:\Inflearn\02.TextRPG\TextRPG\obj\Debug\TextRPG.csproj.CoreCompileInputs.cache
+D:\Inflearn\02.TextRPG\TextRPG\obj\Debug\TextRPG.exe
+D:\Inflearn\02.TextRPG\TextRPG\obj\Debug\TextRPG.pdb
