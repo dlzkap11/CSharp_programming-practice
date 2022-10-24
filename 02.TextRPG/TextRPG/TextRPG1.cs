@@ -1,4 +1,5 @@
-﻿using System;
+﻿/*
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,7 +12,7 @@ namespace TextRPG
     // Archer
     // 속성 : hp, attack, pos
     // 기능 : Move, Attack, Die...
-
+    
     class Player //부모(기반) 클래스
     {
 
@@ -89,12 +90,12 @@ namespace TextRPG
     }
 
     //복사
-   /* struct Mage
+   ///* struct Mage
     {
         public int hp;
         public int attack;
     }
-   */
+   // /_*
     class TextRPG1
     {
         static void EnterGame(Player player)
@@ -113,10 +114,10 @@ namespace TextRPG
                 Mage mage = (Mage)player;
                 mage.mp = 10;
             }
-            */
+            *_/
         }
 
-        static void Main(string[] args)
+        static void Main_a(string[] args)
         {
 
             Knight knight = new Knight(); //객체 생성
@@ -128,7 +129,7 @@ namespace TextRPG
             /*
             Player magePlayer = mage;
             Mage mage2 = (Mage)magePlayer;
-            */
+            *_/
 
             EnterGame(knight);
             EnterGame(mage);
@@ -139,4 +140,6 @@ namespace TextRPG
 
         }
     }
+    
 }
+*/
