@@ -103,7 +103,7 @@ namespace CSharp
 
     class multiple_array
     {
-        static void Main(string[] args)
+        static void Main_1(string[] args)
         {
             int[] scrores = new int[5] { 10, 30, 40, 20, 50 };
 

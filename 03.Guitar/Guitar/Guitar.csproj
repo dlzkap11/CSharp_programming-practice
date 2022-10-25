@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{04CFA3DD-63B7-4212-A81C-64AB5CA17EAE}</ProjectGuid>
+    <ProjectGuid>{17445035-786A-4483-8B86-99920ED741B2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CSharp</RootNamespace>
-    <AssemblyName>CSharp</AssemblyName>
+    <RootNamespace>Guitar</RootNamespace>
+    <AssemblyName>Guitar</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,23 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="array.cs" />
-    <Compile Include="Cal.cs" />
-    <Compile Include="Condition.cs" />
-    <Compile Include="Dictionary.cs" />
-    <Compile Include="function.cs" />
-    <Compile Include="Guitar.cs" />
-    <Compile Include="List.cs" />
-    <Compile Include="multiple_array.cs" />
-    <Compile Include="nineninedan.cs" />
-    <Compile Include="Overloading.cs" />
-    <Compile Include="Practice.cs" />
-    <Compile Include="Practice_b.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="repeat.cs" />
-    <Compile Include="rsp_game.cs" />
-    <Compile Include="String.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
