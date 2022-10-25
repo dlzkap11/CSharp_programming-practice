@@ -8,7 +8,7 @@ namespace CSharp
 {
     class String
     {
-        static void Main(string[] args)
+        static void Main_1(string[] args)
         {
             string name = "Harry Potter";
 

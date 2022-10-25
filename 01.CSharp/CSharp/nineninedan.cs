@@ -23,7 +23,7 @@ namespace CSharp
                 return 1;
             return n * Factorial(n - 1);
         }
-        static void Main_b(String[] args)
+        static void Main_1(string[] args)
         {
             //구구단
             int result;
