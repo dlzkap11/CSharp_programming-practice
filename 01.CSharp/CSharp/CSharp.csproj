@@ -47,6 +47,7 @@
     <Compile Include="Cal.cs" />
     <Compile Include="Condition.cs" />
     <Compile Include="function.cs" />
+    <Compile Include="multiple_array.cs" />
     <Compile Include="nineninedan.cs" />
     <Compile Include="Overloading.cs" />
     <Compile Include="Practice.cs" />

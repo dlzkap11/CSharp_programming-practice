@@ -107,7 +107,7 @@ namespace CSharp
                 Console.Write(scores[i] + " ");
         }
 
-        static void Main(string[] args)
+        static void Main_1(string[] args)
         {
             int[] scores = new int[5] { 20, 50, 30, 10, 40 };
 
